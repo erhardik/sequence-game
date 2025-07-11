@@ -3,6 +3,8 @@ Version 1.0.1 (8/20/19)
 zjk97
 JRE System Library: JavaSE-1.8
 
+before playing, copy all folders and files from 'res' and paste inside 'src'
+Run SequenceGame.java to PLay.
 ### Single Player Mode
 - Color options: red(r), blue(b), green(g)
 - Default user name: Rotty Coyo
